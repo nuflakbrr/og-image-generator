@@ -14,9 +14,9 @@ export const metadata: Metadata = {
     title: 'OG Image Generator - Naufal Akbar Nugroho',
     description: 'Generate OG image for your website.',
     type: 'website',
-    url: 'https://og-image-generator.vercel.app/',
+    url: 'https://nuflakbrr-og-image.vercel.app/',
     images:
-      'http://localhost:3000/api/og?title=Naufal+Akbar+Nugroho&description=Saya+bersemangat+membuat+kontribusi+untuk+memberikan+pengetahuan+teknologi+kepada+semua+orang%21&logoUrl=https%3A%2F%2Fnuflakbrr.github.io%2Fstatic%2Ffavicons%2Fandroid-chrome-512x512.png',
+      'nuflakbrr-og-image.vercel.app/api/og?title=Naufal+Akbar+Nugroho&description=Saya+bersemangat+membuat+kontribusi+untuk+memberikan+pengetahuan+teknologi+kepada+semua+orang%21&logoUrl=https%3A%2F%2Fnuflakbrr.github.io%2Fstatic%2Ffavicons%2Fandroid-chrome-512x512.png',
   },
 };
 
