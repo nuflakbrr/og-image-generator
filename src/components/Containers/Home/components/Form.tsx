@@ -86,7 +86,7 @@ const FormOgImage: FC = () => {
     <div className="flex flex-col md:flex-row gap-3 justify-between items-center">
       <Card className="w-[500px]">
         <CardHeader>
-          <CardTitle>OG Image Genrator</CardTitle>
+          <CardTitle>OG Image Generator</CardTitle>
           <CardDescription>Generate OG image for your website.</CardDescription>
         </CardHeader>
 
