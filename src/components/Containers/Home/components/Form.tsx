@@ -59,7 +59,7 @@ const FormOgImage: FC = () => {
     }
 
     if (img) {
-      params.append('logoUrl', img);
+      params.append('img', img);
     }
 
     const ogImgUrl = `/api/og?${params.toString()}`;
@@ -74,7 +74,7 @@ const FormOgImage: FC = () => {
       'Saya bersemangat membuat kontribusi untuk memberikan pengetahuan teknologi kepada semua orang!',
     );
     params.append(
-      'logoUrl',
+      'img',
       'https://nuflakbrr.github.io/static/favicons/android-chrome-512x512.png',
     );
 
